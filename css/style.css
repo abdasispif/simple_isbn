@@ -1,0 +1,31 @@
+body{
+    background: #e6f4f7;
+}
+
+.content{
+    background: #fff;
+    border-radius: 4px;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+form{
+    padding: 30px;
+}
+
+.form-input{
+    width: 27px;
+    height: 25px;
+    display: inline;
+    margin-bottom: 20px;
+    color: black;
+    text-align: center;
+    font-family: roboto slab;
+}
+
+.hasil{
+    border: 1px dashed #86ccee;
+    width: 87%;
+    margin: 0 auto;
+    padding: 10px;
+}
